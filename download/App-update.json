@@ -1,10 +1,10 @@
 {
-  "latestVersion": "8.6.1-20190802",
-  "url": "https://github.com/equinox-kernel/Equinox-Kernel-Adiutor/blob/equinox/download/com.equinox.kerneladiutor.apk?raw=true",
+  "latestVersion": "8.6.2-20190804",
+  "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "Manual Flashing is working",
-    "Ask for reboot after flashing new version",
-    "Equinox kernel checking"
+    "Hard Reset fixed in manual flashing",
+    "language support dropped, only english",
+    "all kernel support added"
   ]
 }
