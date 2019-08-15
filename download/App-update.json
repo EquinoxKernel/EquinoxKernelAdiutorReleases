@@ -1,10 +1,10 @@
 {
-  "latestVersion": "8.6.2-20190804",
+  "latestVersion": "8.7.0-20190815",
   "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "Hard Reset fixed in manual flashing",
-    "language support dropped, only english",
-    "all kernel support added"
+    "Add switch to disable charging",
+    "Add an option to disable auto-update check",
+    "manual flashing fixed"
   ]
 }
