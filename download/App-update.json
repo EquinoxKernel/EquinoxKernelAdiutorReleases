@@ -1,10 +1,12 @@
 {
-  "latestVersion": "8.7.0-20190815",
+  "latestVersion": "8.8.0-20190922",
   "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "Add switch to disable charging",
-    "Add an option to disable auto-update check",
-    "manual flashing fixed"
+    "Add AIO Hotplug support",
+    "CPU Quiet: Add Min and Max CPUs",
+    "Manual Flashing bug fixed",
+    "charging related features added",
+    "gradle version 3.5.0"
   ]
 }
