@@ -1,12 +1,16 @@
 {
-  "latestVersion": "8.8.0-20190922",
+  "latestVersion": "8.9.0-20191110",
   "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "Add AIO Hotplug support",
-    "CPU Quiet: Add Min and Max CPUs",
-    "Manual Flashing bug fixed",
-    "charging related features added",
-    "gradle version 3.5.0"
+    "- Equinox: Add option to ShutDown & Normal Reboot",
+	"- K-Lapse: update titles for consistency",
+	"- gradle: Update SDK to 29 (Q) & also some dependencies",
+	"- About: show licence upon clicking Equinox icon",
+	"- Update gradle build tools to 3.5.2",
+	"- CPU: CPU Quiet: Update wrong title",
+	"- updated reboot command to safely reboot with animation",
+	"- fixed Grammar mistakes",
+	"- CPU: CPU Quiet: Add Min and Max CPUs"
   ]
 }
