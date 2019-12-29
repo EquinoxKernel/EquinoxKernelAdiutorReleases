@@ -1,16 +1,15 @@
 {
-  "latestVersion": "8.9.0-20191110",
+  "latestVersion": "9.0.0-20191229",
   "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "- Equinox: Add option to ShutDown & Normal Reboot",
-	"- K-Lapse: update titles for consistency",
-	"- gradle: Update SDK to 29 (Q) & also some dependencies",
-	"- About: show licence upon clicking Equinox icon",
-	"- Update gradle build tools to 3.5.2",
-	"- CPU: CPU Quiet: Update wrong title",
-	"- updated reboot command to safely reboot with animation",
-	"- fixed Grammar mistakes",
-	"- CPU: CPU Quiet: Add Min and Max CPUs"
+    "- Dark Theme by default",
+"- Icon section user configurable",
+"- Update Gradle build tools to 3.5.3",
+"- New dashboard icon for the overall page.",
+"- Battery Status switched to MultistatusView",
+"- Detailed device uptime at Overall page",
+"- Add support to Boeffla Sleep2Wake",
+"- Screen Test Image added"
   ]
 }
