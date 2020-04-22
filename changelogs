@@ -1,1 +1,51 @@
-Changelogs:
+ChangeLogs on 22/4/2020:
+1) onActivity: Fix context
+2) Adapt more Material Theme Design
+3) Gradle: Update gradle build tools to 3.6.3
+4) Equinox Kernel Adiutor is now Equinox Kernel Manager - App installation failed error fixed
+5) Main: File Picker: Show a message to prevent using default DocumentsUI which is not yet supported
+6) About: Support Group is in telegram
+7) About: improve source logo visibility Duo to default Dark theme source logo is not visible clearly so Light themed Github logo added. It will also work with Light theme too.
+8) About: re-design about page
+9) recyclerview: SwitchView: Add ability to include an image
+10) Utils: Get File Path from external file manager and Document checker
+11) Donation message
+12) About: Add SourceCodeRepo in About section
+13) About: Add  option to  share app
+14) Backup/Profiles: Properly check  file  type
+15) Utils: get file extension Ref: https://stackoverflow.com/questions/3571223/how-do-i-get-the-file-extension-of-a-file-in-java
+16) Navigation layout: Fix navigation drawer highlight color
+17) Handle Floating Action Button (FAB) - Set FAB icon - on FAB click load the Overall Statistics
+18) Add Navigation BottomAppBar Ref: https://material.io/develop/android/components/bottom-app-bar/
+19) Main: Overall updates according to material style guidelines A big thanks to the following guide https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739
+20) Handle null value when Spectrum Vendor is not present.
+21) Added credit to Sunil Paul Mathew
+22) Buildship
+23) Update Gradle build tools version to 3.6.2
+24) Add github action build status
+25) Screen: Color Test Image added
+26) release version 9.0.0
+27) Update gradle build tools version to 3.5.3
+28) drawable: Import new dashboard icon and use for overall page
+29) K-lapse: Over-all updates which includes 1. Switch to more convenient TimePicker, instead of Seekbar, for selecting Start & End times. 2. Remove support for old K-lapse implementation as it is difficult to manage both, especially after switching to TimePicker.
+30) Battery: Charging Status: Switched to MultiStatusView
+31) Overall: Uptime: Switched to MultiStatsView & add more data such as Awake & Deep Sleep times
+32) recyclerview: Import new MultiStatsView which is a largely modified version of original StatsView
+33) Overall: Show device uptime Most of the code taken and used almost as such from Kernel Adiutor Mod by @yoinx Ref: https://github.com/yoinx/kernel_adiutor/blob/14f85e32f9fbc97320a115636108e8fe1e7234c3/app/src/main/java/com/grarak/kerneladiutor/fragments/information/FrequencyTableFragment.java#L190
+34) Battery:  Charging status: Improve coding style
+35) Misc: Update Doze switch
+36) Misc: Enable Dark theme by default
+37) Settings: Make section icons user configurable still enabled by default
+38) Sweep2Wake: Add support to Boeffla s2w & also update menu
+39) Battery: Clean-up & update live views
+40) VM: zRAM: Update zRAM algoritham Warning: zRAM disk size will be temporarily reduced to \'0\'. This process might have serious impacts on some devices.
+41) Upload debug apk to telegram
+42) remove travic ci
+43) Remove signing config for release build debug and unsigned build will be created in CI Release build will be published manually.
+44) Create android.yml
+45) Equinox: Add option to ShutDown & Normal Reboot
+46) K-Lapse: update titles for consistency
+47) gradle: Update SDK to 29 (Q) & also some dependencies
+48) About: show licence upon clicking SP icon
+49) Update gradle build tools to 3.5.2
+50) CPU: CPU Quiet: Update wrong title
