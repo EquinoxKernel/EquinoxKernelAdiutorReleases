@@ -1,15 +1,14 @@
 {
-  "latestVersion": "9.0.0-20191229",
-  "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kerneladiutor.apk?raw=true",
+  "latestVersion": "10.0.0-20200422",
+  "url": "https://raw.githubusercontent.com/EquinoxKernel/EquinoxKernelAdiutorReleases/master/download/com.equinox.kernelmanager.apk?raw=true",
   "releaseNotes": [
     "Change-log:",
-    "- Dark Theme by default",
-"- Icon section user configurable",
-"- Update Gradle build tools to 3.5.3",
-"- New dashboard icon for the overall page.",
-"- Battery Status switched to MultistatusView",
-"- Detailed device uptime at Overall page",
-"- Add support to Boeffla Sleep2Wake",
-"- Screen Test Image added"
+    "- New Navigation System",
+"- Installation issue Fixed",
+"- Auto update by OTA",
+"- Flasher issues fixed",
+"- About Section Redesigned",
+"- Gradle build tool 3.6.3",
+"- Many More (follow ChangeLog in about section)"
   ]
 }
